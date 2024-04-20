@@ -1,0 +1,22 @@
+# Java
+*.class
+*.jar
+
+# Maven
+target/
+
+# Build
+prod/
+launch4j.xml
+
+# Database
+data/
+
+# Intellij
+*.iml
+.idea/
+out/
+
+# OS X
+.DS_Store
+*.exe
